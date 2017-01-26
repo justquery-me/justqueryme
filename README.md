@@ -33,7 +33,7 @@ Once tags are associated with the query elements, the parser will build a dataso
 - Datasource Driver
 Every "query type" (SQL, Json), will have a driver associated with it. This driver is responsible for translating the query agnostic representation into an actual query request which can then be passed to the datasource.
 
-### Some general idea of the potential capabilities
+## Some general idea of the potential capabilities
 
 - Not only parse the request but the return agnostic query representation would contain a list of further questions that can be asked of the user (or defaulted to specific values) to make the query more relevant.
 - Ability to recognize a certain level of mispelling
