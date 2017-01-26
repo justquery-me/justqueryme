@@ -15,7 +15,7 @@ Instead of
 
 SELECT SUM(SALES) FROM SALES WHERE SALES_DATE BETWEEN ... AND ... GROUP BY ...
 
-## A VERY simple idea of architecture until we have more time to do the "real thing"
+## A VERY simple idea of architecture until we have more time to document the "real thing"
 
 - NLP Processor
 Current plans involve using google's SyntaxNet (https://github.com/tensorflow/models/tree/master/syntaxnet) to parse the POS tags. 
