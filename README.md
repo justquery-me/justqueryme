@@ -49,7 +49,7 @@ Every "query type" (SQL, Json), will have a driver associated with it. This driv
 
 ## Project Status
 
-This project has JUST started. We are still building the basic architecture and will have more information in the future. However, we welcome any AI/Machine Learning/NLP/Other enthusiasts who find this interesting to join us. Not quite sure? No problem, just watch us for a while. More content to come!
+This project has JUST started. We are still building the basic architecture and will have more information in the future. However, we welcome any AI/Machine Learning/NLP/Other enthusiasts who find this interesting to join us and subscribe to justqueryme-development@googlegroups.com. Not quite sure? No problem, just watch us for a while. More content to come!
 
 ## License
 
