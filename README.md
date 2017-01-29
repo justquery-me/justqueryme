@@ -15,6 +15,12 @@ Instead of
 
 SELECT SUM(SALES) FROM SALES WHERE SALES_DATE BETWEEN ... AND ... GROUP BY ...
 
+## How to Contribute
+
+This project is on the initial stages and we need help with the general design approach for the machine learning portion. If you have the experience and would like to contribute, please subscribe to justqueryme-development@googlegroups.com.
+
+As we evolve the project further, we will certainly welcome contributions around the AI and non-AI aspects of the project.
+
 ## A VERY simple idea of architecture until we have more time to document the "real thing"
 
 - NLP Processor
